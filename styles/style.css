@@ -10,3 +10,10 @@ img {
   border: 3px solid black;
   margin-top: -104px;
 }
+a {
+  color: #377d71;
+}
+a:hover,
+a:active {
+  color: #937dc2;
+}
