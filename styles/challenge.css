@@ -21,12 +21,12 @@ ul {
   margin: 0 auto 50px auto;
 }
 li {
-  background-color: #c2ded1;
+  background-color: #cc9c75;
   margin-bottom: 20px;
   border-radius: 10px;
   padding: 15px;
 }
 .important {
-  background-color: #abe0c7;
+  background-color: #c9aa91;
   box-shadow: 2px 3px 3px salmon;
 }
